@@ -95,18 +95,4 @@ Estou sempre buscando transformar ideias em projetos reais e utilizar cada proje
 
 <div align="center">
 
-### 📫 Vamos nos conectar?
 
-<a href="https://github.com/EVOMJ">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,40:000000,40:ffffff,100:ffffff&gradient=true&section=footer&reversal=true"/>
-
-</div>
