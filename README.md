@@ -51,7 +51,6 @@ Gosto de aprender na prática, criar projetos, resolver problemas e descobrir no
   <img width="15"/>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,30:000000,30:ffffff,100:ffffff&gradient=true&flip=true"/>
 
 
 
