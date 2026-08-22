@@ -49,7 +49,15 @@ Gosto de aprender na prática, criar projetos, resolver problemas e descobrir no
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
   <img width="15"/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,30:000000,30:ffffff,100:ffffff&gradient=true"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5001&pause=1001&color=F73D46&center=true&vCenter=true&width=600&height=68&lines=Hello%2C+welcome!;Ol%C3%A1%2C+seja+bem-vindo!;Marcos+Jesus+Viana;Desenvolvedor+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
+
+</div>
 
 
 
