@@ -55,17 +55,6 @@ Gosto de aprender na prática, criar projetos, resolver problemas e descobrir no
 
 ---
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5034&pause=1032&color=FF3F48&center=true&vCenter=true&width=600&height=68&lines=GitHub+Statistics" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=EVOMJ&show_icons=true&theme=neon&include_all_commits=true&count_private=true" width="500" alt="GitHub Statistics"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOMJ&layout=compact&langs_count=10&theme=neon" width="500" alt="Top Languages"/>
 
@@ -77,22 +66,6 @@ Gosto de aprender na prática, criar projetos, resolver problemas e descobrir no
 
 ---
 
-## 📌 Projetos
 
-Alguns dos projetos que venho desenvolvendo envolvem:
-
-* 🐍 Aplicações em Python
-* 🌐 APIs utilizando Flask
-* 📱 Aplicações com Flet
-* 🗄️ Sistemas utilizando SQLite e SQL
-* 📊 Sistemas de vendas e relatórios
-* 🌐 Projetos Web com HTML, CSS e JavaScript
-* 🤖 Projetos envolvendo automação e tecnologia
-
-Estou sempre buscando transformar ideias em projetos reais e utilizar cada projeto como uma oportunidade para aprender algo novo.
-
----
-
-<div align="center">
 
 
