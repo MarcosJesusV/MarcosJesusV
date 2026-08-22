@@ -8,7 +8,7 @@
 
 </div>
 
-## 👋 Olá, eu sou o Marcos!
+## Marcos!
 
 Tenho **18 anos** e atualmente estou **cursando o Ensino Superior na área de tecnologia**.
 
