@@ -53,18 +53,7 @@ Gosto de aprender na prática, criar projetos, resolver problemas e descobrir no
   <img width="15"/>
 
 
----
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJesusV&layout=compact&langs_count=10&theme=neon" width="500" alt="Top Languages"/>
-
-<br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosJesusV&theme=2077" width="700" alt="GitHub Profile Details"/>
-
-</div>
-
----
 
 
 
