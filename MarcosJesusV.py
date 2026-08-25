@@ -122,4 +122,160 @@ Estou sempre buscando transformar ideias em projetos reais e utilizar cada proje
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,40:000000,40:ffffff,100:ffffff&gradient=true&section=footer&reversal=true"/>
 
+</div> 
+
+<div align="center">
+
+MARCOS JESUS VIANA
+
+Santana de Parnaíba, SP
+marcos.jesus.viana226@gmail.com
+GitHub: github.com/MarcosJesusV
+
+</div>
+
+<div align="center">
+
+PERFIL PROFISSIONAL
+
+</div>
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º semestre, com formação complementar em Programação com Python — 260 horas. Possuo conhecimentos em lógica de programação, desenvolvimento de scripts, resolução de problemas e criação de projetos práticos.
+
+Tenho interesse em desenvolvimento de software, programação, automação e tecnologia, buscando minha primeira oportunidade profissional na área de TI para aplicar meus conhecimentos, desenvolver novas competências e contribuir com soluções tecnológicas.
+
+Perfil caracterizado por facilidade de aprendizado, trabalho em equipe, organização, adaptação a novas tecnologias e interesse contínuo em desenvolvimento profissional.
+
+<div align="center">
+
+FORMAÇÃO ACADÊMICA
+
+</div>
+
+Análise e Desenvolvimento de Sistemas — ADS
+
+Faculdade Anhanguera — Campus Osasco
+2º semestre — Cursando
+
+Principais disciplinas do 1º semestre:
+
+Sistemas Operacionais
+Linguagem de Programação
+Matemática Computacional
+
+Principais disciplinas do 2º semestre:
+
+Redes de Computadores
+Interface e Usabilidade
+Arquitetura e Organização de Computadores
+Ensino Médio Completo
+
+Colégio Municipal Tenente General Gaspar de Godoi Colaço
+Santana de Parnaíba, SP
+
+<div align="center">
+
+FORMAÇÃO COMPLEMENTAR
+
+</div>
+
+Programação com Python — 260 horas
+
+Fábrica de Programadores — Santana de Parnaíba, SP
+
+Formação com foco em:
+
+Lógica de programação
+Desenvolvimento de scripts
+Resolução de problemas
+Estruturação de programas
+Desenvolvimento de projetos práticos
+Informática Básica
+
+SENAI — Barueri, SP
+
+Formação em fundamentos de informática, utilização de ferramentas computacionais e conhecimentos básicos de tecnologia.
+
+GOAT English
+
+Inglês — do Básico ao Fluente | Cursando
+Professora: Carla
+Contato: (+55) 54 9106-0195
+
+Formação contínua em língua inglesa, com desenvolvimento progressivo das habilidades de compreensão, conversação, leitura e escrita.
+
+<div align="center">
+
+CONHECIMENTOS TÉCNICOS
+
+</div>
+
+Programação
+Python
+Lógica de programação
+Desenvolvimento de scripts
+Resolução de problemas
+Desenvolvimento e Ferramentas
+Visual Studio Code
+GitHub
+Ferramentas de automação
+Informática básica
+Conhecimentos em Formação
+Sistemas Operacionais
+Redes de Computadores
+Arquitetura e Organização de Computadores
+Interface e Usabilidade
+Matemática Computacional
+
+<div align="center">
+
+PROJETOS E EXPERIÊNCIAS ACADÊMICAS
+
+</div>
+
+Projetos de Programação
+
+Desenvolvimento de projetos práticos utilizando Python, aplicando conceitos de lógica de programação, estruturação de código e resolução de problemas.
+
+Projetos de Robótica
+
+Participação em atividades e projetos relacionados à robótica, incluindo participação na Olimpíada Brasileira de Robótica, desenvolvendo conhecimentos práticos, raciocínio lógico e trabalho em equipe.
+
+Projeto Horta Solidária
+
+Participação no planejamento e desenvolvimento de projeto em equipe, envolvendo organização de tarefas, colaboração e busca de soluções para uma proposta social.
+
+Empreendedorismo e Inovação
+
+Participação em jornadas de empreendedorismo e inovação realizadas pela Faculdade Anhanguera em parceria com o SEBRAE, incluindo atividades relacionadas ao Programa Spark — Sebrae for Startups.
+
+<div align="center">
+
+COMPETÊNCIAS
+
+</div>
+
+Trabalho em equipe
+Comunicação
+Facilidade de aprendizado
+Raciocínio lógico
+Organização
+Proatividade
+Adaptabilidade
+Resolução de problemas
+Comprometimento
+Foco em resultados
+
+<div align="center">
+
+OBJETIVO
+
+</div>
+
+Estágio em Tecnologia da Informação, Desenvolvimento de Software ou Programação, com interesse em oportunidades que permitam aplicar conhecimentos em Python e desenvolvimento de sistemas, adquirir experiência prática e evoluir profissionalmente na área de tecnologia.
+
+<div align="center">
+
+Currículo atualizado — Agosto de 2026
+
 </div>
